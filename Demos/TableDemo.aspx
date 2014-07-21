@@ -34,7 +34,7 @@
 				<td>
 					<ol>
 						<li>Jazz</li>
-						<li>Hip Hop</li>
+						<li>Hip-Hop</li>
 						<li>Trip Hop</li>
 					</ol>
 				</td>
